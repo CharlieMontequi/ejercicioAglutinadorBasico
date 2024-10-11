@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ejercicioAglutinadorBasico</string>
+    <string name="textViewNombre">Nombre/string>
+    <string name="textViewApellido1">Pimer apellido</string>
+    <string name="textViewApellido2">Segundo apellido</string>
+    
+</resources>
