@@ -4,4 +4,17 @@
     <string name="textViewApellido1">Pimer apellido</string>
     <string name="textViewApellido2">Segundo apellido</string>
     <string name="textViewMatricular">Selecciona cursos matriculados</string>
+    <string name="textEditNombre"></string>
+    <string name="textEditApellido1"></string>
+    <string name="textEditApellido2"></string>
+    <string-array name="array_matriculas">
+        <item>DAM</item>
+        <item>DAW</item>
+        <item>ASIR</item>
+        <item>HIGIENE</item>
+        <item>SEGURIDAD</item>
+        <item>COCINA</item>
+    </string-array>
+
+
 </resources>
