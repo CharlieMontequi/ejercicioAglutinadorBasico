@@ -7,7 +7,7 @@
     <string name="textEditNombre"></string>
     <string name="textEditApellido1"></string>
     <string name="textEditApellido2"></string>
-    <string-array name="array_matriculas">
+    <string-array name="arrayMatriculas">
         <item>DAM</item>
         <item>DAW</item>
         <item>ASIR</item>
